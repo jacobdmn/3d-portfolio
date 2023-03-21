@@ -1,6 +1,6 @@
-# Build and Deploy a Fantastic 3D Portfolio Website with Three.js and React.js
+# A Fantastic 3D Portfolio Website with Three.js and React.js
 
-![3D Portfolio](/cover.webp)
+![3D Portfolio](/public/cover.webp)
 
 ## Introduction
 
@@ -8,7 +8,7 @@ The existence of React Native makes React one of the most valuable skills to
 have. Learn how to transform 75% of your knowledge from making websites into
 building mobile applications today!
 
-In this course, you'll learn the following:
+In this project, I used the following:
 
 - ThreeJS - a powerful 3D graphics library for rendering and animating the 3D
   model
